@@ -1,0 +1,63 @@
+
+div {
+	
+	background-position: center;
+
+}
+
+#d1 {
+	
+	background-image:url(./img/bloodpit2.png);
+	height: 400px;
+	width: 400px;
+	
+}
+
+#d2 {
+	
+	background-image:url(./img/dungeon1.png);
+	height: 300px;
+	width: 300px;
+	
+}
+
+#d3 {
+	
+	background-image:url(./img/mahabre_streets2.png);
+	height: 200px;
+	width: 200px;
+	
+}
+
+#d4 {
+	
+	background-image:url(./img/prisoncells.png);
+	height: 100px;
+	width: 100px;
+	
+}
+
+@font-face {
+	
+    font-family: PixelMPlus10;
+    src: url('./font/PixelMplus10-Regular.ttf');
+}
+
+@font-face {
+	
+	font-family: CrimsonText;
+	src: url('./font/CrimsonText-Regular.ttf');
+	
+}
+
+#p1 {
+	
+	font-family: PixelMPlus10;
+	
+}
+
+#p2 {
+	
+	font-family: CrimsonText;
+	
+}

@@ -1,0 +1,49 @@
+
+#d1 {
+	
+	padding: 50px 150px;
+	width: 0;
+	margin: 10% 40%;
+	background-color: cyan;
+	
+}
+
+#d2 {
+	
+	padding: 40px;
+	margin: 10px;
+	background-color: green;
+	position: relative;
+	float: right;
+	
+	
+}
+
+#d3 {
+	
+	padding: 40px;
+	margin: 10px;
+	background-color: blue;
+	position: relative;
+	
+}
+
+#d4 {
+	
+	padding: 40px;
+	margin: 10px;
+	background-color: brown;
+	position: relative;
+	float: right;
+	
+}
+
+#d5 {
+	
+	padding: 40px;
+	margin: 10px;
+	background-color: yellow;
+	position: relative;
+	top: 10px;
+	
+}

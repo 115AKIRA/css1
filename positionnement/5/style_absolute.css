@@ -1,0 +1,54 @@
+
+#d1 {
+	
+	padding: 150px;
+	width: 0;
+	margin: 10% 40%;
+	background-color: cyan;
+	
+}
+
+#d2 {
+	
+	padding: 40px;
+	margin: 10px;
+	background-color: green;
+	position: absolute;
+	top: 25%;
+	left: 42%;
+	
+	
+}
+
+#d3 {
+	
+	padding: 40px;
+	margin: 10px;
+	background-color: blue;
+	position: absolute;
+	top: 25%;
+	left: 51%;
+	
+}
+
+#d4 {
+	
+	padding: 40px;
+	margin: 10px;
+	background-color: brown;
+	position: absolute;
+	top: 45%;
+	left: 42%;
+	
+}
+
+#d5 {
+	
+	padding: 40px;
+	margin: 10px;
+	background-color: yellow;
+	position: absolute;
+	top: 45%;
+	left: 51%;
+	
+}

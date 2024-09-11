@@ -1,9 +1,9 @@
 
 #d1 {
 	
-	padding: 50px 150px;
+	padding: 0px 150px;
 	width: 0;
-	margin: 10% 40%;
+	margin: 10% 0% 10% 35%;
 	background-color: cyan;
 	
 }
@@ -14,7 +14,8 @@
 	margin: 10px;
 	background-color: green;
 	position: relative;
-	float: right;
+	top: 90px;
+	box-sizing: border-box;
 	
 	
 }
@@ -25,6 +26,8 @@
 	margin: 10px;
 	background-color: blue;
 	position: relative;
+	right: 100px;
+	box-sizing: border-box;
 	
 }
 
@@ -34,7 +37,7 @@
 	margin: 10px;
 	background-color: brown;
 	position: relative;
-	float: right;
+	box-sizing: border-box;
 	
 }
 
@@ -44,6 +47,8 @@
 	margin: 10px;
 	background-color: yellow;
 	position: relative;
-	top: 10px;
+	bottom: 90px;
+	right: 100px;
+	box-sizing: border-box;
 	
 }
